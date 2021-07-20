@@ -1,0 +1,5 @@
+1.Validate status code, headers and response schema.
+	
+2.Validate the Response payload and validate the links.
+	
+3.Response time considering the payload size ,Testing Get api for invalid uri/url 
